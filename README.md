@@ -13,6 +13,9 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-<img style="height:180px;" src="https://github-readme-stats.vercel.app/api?username=UchikadoLucas&show_icons=true&theme=tokyonight&hide_rank=true" />
-<img style="height:180px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=UchikadoLucas&layout=compact&theme=tokyonight" />
+ >-->
+<img style="height:180px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=UchikadoLucas&layout=compact&theme=tokyonight" /> 
+<img style="height:180px;" src="https://github-readme-stats.vercel.app/api?username=UchikadoLucas&show_icons=true&theme=tokyonight&hide_rank=true"/>
+
+
 
