@@ -1,6 +1,6 @@
 # 👩🏻‍💻 LucasUchikado
 
-**`Desenvolvedora FullStack`**
+**`Desenvolvedor FullStack`**
 
 
 
