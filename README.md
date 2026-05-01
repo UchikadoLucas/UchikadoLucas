@@ -99,4 +99,16 @@
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=UchikadoLucas&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 
+
+### 🐍 Snake Game (Contribuições)
+<!-- O gráfico de contribuições transformado em jogo! Requer configuração de GitHub Action -->
+![Snake animation](https://github.com/[SeuUser]/[SeuUser]/blob/output/github-contribution-grid-snake.svg)
+
+---
+
+
+
+---
+
+
 </p>
